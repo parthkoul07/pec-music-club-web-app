@@ -1,0 +1,15 @@
+{
+  "name": "music-club-pwa",
+  "version": "1.0.0",
+  "description": "music club web app",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  }
+}
